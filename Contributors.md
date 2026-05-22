@@ -1,14 +1,18 @@
+-[Anushka Srivastava](https://github.com/anushkasrvstv)
 - [SuperDeer](https://github.com/superdeer18/first-contributions)
 - [Cutro](https://github.com/Cutro3010/first-contributions)
 - [404000-UI](https://github.com/404000-UI)
 -Shravani
 -Prerna
 - Herit (herit007)
+- [Shashank S](https://github.com/Shashank23123458867504/first-contributions)
 - [Haarsh](https://github.com/haarshaacharya)
 - [Aakriti Arya](https://aakriti-arya-portfolio.vercel.app)
+- [JheanLL](https://github.com/JheanLL)
 - [Shainti](https://github.com/shainti/)
 - [Nayagam](https://pmnayagam.github.io/portfolio/)
 - [Suryansh] (https://github.com/snaxy318)
+- [Nitisha Mali](https://github.com/Nitisha-hub)
 - Farhan Ishraq 
 - [Faizan](https://github.com/faizanfatmi)
 - [Khushi Trivedi](https://github.com/Khushi288-creator)
@@ -34,6 +38,7 @@
 - [Saikiran Palli]
 -[xzh]
 -[zyh]
+- [Hong Cheng Wang](https://github.com/hongchengw)
 - [Babar Zargar](https://github.com/BabarZargar)
 - [Nebal Akash](https://github.com/Nebal-akash)
 - [Arnav Kothekar](https://github.com/ArnavKothekar)
@@ -110,6 +115,7 @@ rashid adiyarambath
 - [Samir Khanal](https://github.com/shawmeer)
 - [mboulagh] (https://github.com/MINATOnmk) From Avictos Open Source Club, Morocco  .
 - [Ramnivas Suthar](https://github.com/ramnivas11)
+- [Varun]
 - [Aamir Khan](https://github.com/aamir296)
 - [Aboubaker Amajjou](https://github.com/P4IN444)
 - [Niharika Gupta](https://github.com/guptaniharika8953)
@@ -317,6 +323,7 @@ OAT
 - [LisaM516](https://github.com/LisaM516)
 - [FuraxDev](https://github.com/furax2204)
 - [Furkan Can](https://github.com/Furkancan2)
+- [gegi](https://github.com/gegi05)
 - [G S Abinivas](https://github.com/abi6374)
 - [G.Mohammed Mansoor](https://github.com/VoidKernel786)
 - [Gali Alon](https://github.com/gali-alon)
@@ -445,6 +452,7 @@ OAT
 - [Moe Nyi](https://github.com/moenyi12-kraken)
 - [Monica Fagerli](https://github.com/MonicaKristine)
 - [Muhammed Shareef](https://github.com/shareefmx)
+- [Muhammad Habiibullah](https://github.com/habiibullahm)
 - [Mudasir Ali](https://github.com/mudasirunar)
 - [Fadel Bantan](https://github.com/fadelbantan)
 - [Muhsil NR](https://github.com/mhlohh)
@@ -492,6 +500,7 @@ OAT
 - [Nícolas Marinho](https://github.com/nicolasmarinhoo)
 - [Nguyen Quoc Thai](https://github.com/nqt-2)
 - [OSoufian](https://github.com/OSoufian)
+- [Mathis LaPivoine](https://github.com/Archeos932)
 - [Olamilekan](https://github.com/kilan080)
 - [Olapu Ajay](https://github.com/olapuajay)
 - [Oleg Ataeff](https://github.com/ariannamethod)
@@ -554,6 +563,7 @@ Hana
 - [Prince Makhansa](https://github.com/PrinceMakhansa)
 - [Prince](https://github.com/Prnc5804)
 - [Prithvi](https://github.com/Prithviisss)
+- [laa]
 - [Prithviraj Tandel](https://github.com/NSKY0808)
 - [Priya Vora](https://github.com/priyavora6)
 - [Priyam Manna](https://github.com/priyam-that)
@@ -564,6 +574,7 @@ Hana
 - [Quillenar-dev](https://github.com/Quillenar-dev)
 - [Quisim Bryant](https://github.com/quisimbryant)
 - [Rachana N P](https://github.com/rachananp)
+Jackson Gilstrap
 - [RANJAN SHARMA](https://github.com/22054204/)
 - [RISHAD ROSHAN](https://github.com/rishadroshanpt)
 - [RSM Harsha](https://github.com/rsmharsha)
@@ -784,6 +795,7 @@ Prasanna Raj Neupane (https://github.com/prasannaneupane)
 - [Tariq Menla](https://github.com/Tariq-Menla)
 - [Tase](https://github.com/Tasesho)
 - [Teena Goyal](https://github.com/teenagoyal21)
+- [Jtoosh](https://github.com/jtoosh)
 - [Tejas MS](https://github.com/TejasMS1356)
 - [Tejas Waghere](https://github.com/tejaswaghere)
 - [Teng-Hui Huang](https://github.com/hui811116)
@@ -1048,5 +1060,7 @@ https://github.com/1276604737-cloud
 - [Thejaswini](https://github.com/Thejaswini-VS)
 - [PRIYAL DESHMUKH]
 - [Iketutwidiyane](https://github.com/IKetutWidiyane)
+- dhrux11
 - [Sachin Mehta](https://github.com/SachinMehta-sgoo)
 - [Ofir Eitan](https://github.com/OfirEitan)
+- [Hazem Hadj Ahmed](https://github.com/hazemha54)
